@@ -1,7 +1,6 @@
 # React recipe App
 
 ## Prerequirements
-- [Mariadb]
 - [Node]
 - [npm]
 
