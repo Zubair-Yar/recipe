@@ -9,7 +9,7 @@
 ## Client-side usage(PORT: 3000)
 ```terminal
 $ npm i       // npm install pacakges
-$ npm start // run it locally
+$ npm start // to run it 
 ```
 
 
